@@ -1,2 +1,2 @@
 # EnvironmentVariableEditor
-This i a windows environment variable management UI.
+This is a windows environment variable management UI.
